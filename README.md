@@ -17,7 +17,7 @@ localhost:3000
 
 ## Ports modification
 
-You can modify the ports by accessing docker-compose.yaml file and modifying the **ports** in the **frontend** service.
+You can modify the ports by accessing **docker-compose.yaml** file and modifying the **ports** in the **frontend** service.
 
 ## Demo
 
